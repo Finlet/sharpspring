@@ -1,0 +1,19 @@
+{
+    "name": "finlet/sharpspring-api-php-client",
+    "description": "SharpSpring API PHP Client.",
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Rico van de Vin",
+            "email": "rico@finlet.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Finlet\\sharpspring-api-php-client\\": "src/"
+        }
+    }
+}
